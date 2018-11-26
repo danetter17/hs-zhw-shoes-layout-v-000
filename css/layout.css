@@ -23,6 +23,9 @@
 }
 
 /* Positioning Classes */
+.row {
+  clear: both;
+}
 
 .col-1 {
   float: left;
